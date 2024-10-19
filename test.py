@@ -2,9 +2,9 @@
 import json
 
 # 指定 CSV 檔案的路徑
-csv_file_path = "LV2\DataAnalysis\courses.csv"
+csv_file_path = "C:\vsc\project_1012\test.csv"
 # 指定輸出的 JSON 檔案的路徑
-json_file_path = "LV2\DataAnalysis\courses.json"
+json_file_path = "C:\vsc\project_1012\test2.json"
 
 # 以讀取模式 "r" 讀取 CSV 檔案，並使用 utf-8 編碼開啟 CSV 檔案
 with open(csv_file_path, mode="r", encoding="utf-8") as file:
