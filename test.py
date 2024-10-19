@@ -2,9 +2,9 @@
 import json
 
 # 指定 CSV 檔案的路徑
-csv_file_path = "C:\vsc\project_1012\test.csv"
+csv_file_path = r"C:\vsc\project_1012\test.csv"
 # 指定輸出的 JSON 檔案的路徑
-json_file_path = "C:\vsc\project_1012\test2.json"
+json_file_path = r"C:\vsc\project_1012\test2.json"
 
 # 以讀取模式 "r" 讀取 CSV 檔案，並使用 utf-8 編碼開啟 CSV 檔案
 with open(csv_file_path, mode="r", encoding="utf-8") as file:
@@ -14,7 +14,7 @@ with open(csv_file_path, mode="r", encoding="utf-8") as file:
 # 讀取 CSV 檔案的第一行，去除首尾空白並根據逗號分隔成列表，這是標題列
 header = (lines[0].strip().split(","))
 # 初始化一個空列表 data，用於儲存解析後的資料
-data = []
+data = [] 
 
 # 從第二行開始遍歷每一行資料
 for line in lines[1:]:

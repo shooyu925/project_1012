@@ -1,0 +1,8 @@
+<課程列表>
+<課程><name>AI 人工智慧</name><price>NT$ 6000</price><hours>40 小時</hours><date>8月1日</date><outline>人工智慧概論、機器學習基礎、深度學習應用</outline></課程>
+<課程><name>程式設計</name><price>NT$ 5000</price><hours>50 小時</hours><date>7月15日</date><outline>Python 程式設計、資料結構與演算法、Web 開發基礎</outline></課程>
+<課程><name>智慧機械製圖</name><price>NT$ 7000</price><hours>60 小時</hours><date>8月20日</date><outline>AutoCAD 基礎、SolidWorks 進階應用、工業設計原理</outline></課程>
+<課程><name>自媒體行銷與商業美編</name><price>NT$ 4500</price><hours>30 小時</hours><date>9月10日</date><outline>自媒體平台運營、數位行銷策略、商業設計與美編技巧</outline></課程>
+<課程><name>建築與室內設計課程</name><price>NT$ 6500</price><hours>55 小時</hours><date>7月25日</date><outline>建築設計原理、室內設計風格與實務、繪圖軟體應用</outline></課程>
+<課程><name>財務會計、英文、辦公軟體</name><price>NT$ 4000</price><hours>40 小時</hours><date>7月30日</date><outline>基礎會計、英文溝通技巧、辦公軟體應用</outline></課程>
+</課程列表>
